@@ -14,6 +14,7 @@
 ### 🎯 Going to Study
 - 🛠️ **선형대수학, 미분방정식등 기초 수학**
 - 📡 **RISC-V 등 저수준 언어**
+- ✨ **Various AI Algorithms**
   
 ### 📫 How to Reach Me  
 - ✉️ **이메일**: okmac01@gmail.com
