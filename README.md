@@ -5,7 +5,7 @@
 
 ### 🚀 About Me  
 - 🔍 **주 관심 분야**: 알고리즘, 임베디드 시스템, 컴퓨터 비전 및 머신러닝, 전자회로 및 반도체
-- 🛠️ **사용하는 언어**:  C/C++, Python(Able to Understand), Kotlin(planning to study)
+- 🛠️ **사용하는 언어**:  C/C++, Python, Kotlin(planning to study)
 - 🌱 **Solved.ac Profile**: https://solved.ac/profile/okmac03
   
 ### 📌 Projects & Works
